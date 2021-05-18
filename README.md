@@ -1,3 +1,5 @@
+Projeto para estudo retirado de https://github.com/sandrogiacom/k8s
+
 # Java and Kubernetes
 
 Show how you can move your spring boot application to docker and kubernetes.
